@@ -23,7 +23,7 @@ Node.js
 👤 Autor
 
 Leonardo Stroher
-GitHub 
+GitHub https://github.com/Leonardo-stroher
  • LinkedIn
 
 Feito com ☕, raiva e amor pela tecnologia.
