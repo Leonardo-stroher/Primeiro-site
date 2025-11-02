@@ -16,3 +16,14 @@
   ## 🧠 Pré-requisitos
 VsCode ou qualquer outro motor que possa rodar html
 Node.js
+
+🎥 Demonstração
+<img width="1850" height="845" alt="image" src="https://github.com/user-attachments/assets/b0ed425a-c593-4346-987e-62d446aecf98" />
+
+👤 Autor
+
+Leonardo Stroher
+GitHub 
+ • LinkedIn
+
+Feito com ☕, raiva e amor pela tecnologia.
