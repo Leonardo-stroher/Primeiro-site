@@ -1,7 +1,5 @@
 # ⚡ Primeiro-site
 > Repositório produzido durante a disciplina de programação Web 1.
->
-> <h1 align="center">💀 <span style="color:#00ffff;">WARP ENGINE</span> 💀</h1>
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
