@@ -1,4 +1,4 @@
-<h1># ⚡ Primeiro-site</h1>
+<h1><span style="color:green;"># ⚡ Primeiro-site</span></h1>
 > Repositório produzido durante a disciplina de programação Web 1.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
