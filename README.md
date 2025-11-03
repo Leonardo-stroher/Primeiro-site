@@ -6,8 +6,8 @@
 ![Tech](https://img.shields.io/badge/built_with-love_&_rage-red)
 
 ## 🚀 Sobre o Projeto
-> Projeto focado na criação de um site simples.
->  Criado com intuito de aprender HTML.
+> <span style="color:#d1dc00;">Projeto focado na criação de um site simples.</span>
+> Criado com intuito de aprender HTML.
 
 ## 🧩 Funcionalidades Principais
 - Aprendizado de HTML
