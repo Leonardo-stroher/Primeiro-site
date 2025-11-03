@@ -1,4 +1,4 @@
-<h1><span style="color:#d1dc00;"># ⚡ Primeiro-site</span></h1>
+<h1># ⚡ Primeiro-site</h1>
 > Repositório produzido durante a disciplina de programação Web 1.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -6,7 +6,7 @@
 ![Tech](https://img.shields.io/badge/built_with-love_&_rage-red)
 
 ## 🚀 Sobre o Projeto
-> <span style="color:#d1dc00;">Projeto focado na criação de um site simples.</span>
+> Projeto focado na criação de um site simples.
 > Criado com intuito de aprender HTML.
 
 ## 🧩 Funcionalidades Principais
@@ -26,4 +26,4 @@ Leonardo Stroher
 GitHub https://github.com/Leonardo-stroher
  • LinkedIn
 
-Feito com ☕, raiva e amor pela tecnologia.
+Feito com ☕, raiva, paciência e amor pela tecnologia(Por mais que dê muita dor de cabeça em certos momentos).
