@@ -7,10 +7,10 @@
 
 ## 🚀 Sobre o Projeto
 > Projeto focado na criação de um site simples.
-> Criado com intuito de aprender HTML.
+> Criado com intuito de aprender HTML e CSS.
 
 ## 🧩 Funcionalidades Principais
-- Aprendizado de HTML
+- Aprendizado de HTML e CSS
 - Funcionalidades simples
 
   ## 🧠 Pré-requisitos
@@ -26,4 +26,4 @@ Leonardo Stroher
 GitHub https://github.com/Leonardo-stroher
  • LinkedIn
 
-Feito com ☕, raiva, paciência e amor pela tecnologia(Por mais que dê muita dor de cabeça em certos momentos).
+Feito com ☕, raiva, paciência, reza braba e amor pela tecnologia(Por mais que dê muita dor de cabeça em certos momentos).
