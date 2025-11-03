@@ -3,7 +3,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
-![Tech](https://img.shields.io/badge/built_with-love_&_rage-red)
+![Tech](https://img.shields.io/badge/built_with-love_Patience_&_rage-red)
 
 ## 🚀 Sobre o Projeto
 > Projeto focado na criação de um site simples.
